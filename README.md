@@ -2,7 +2,7 @@
 
 🇵🇪 Peru  
 
-Advanced Computer Science Student — The University of Sheffield
+MSc Advanced Computer Science — The University of Sheffield
 
 I enjoy building reliable software and developing modern web applications and systems.
 
